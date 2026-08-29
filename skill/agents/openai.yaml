@@ -1,0 +1,3 @@
+interface:
+  display_name: "Public Integrity Investigator"
+  short_description: "Audit public officials through evidence-backed OSINT graphs"
