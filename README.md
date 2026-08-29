@@ -1,5 +1,7 @@
 # Public Integrity Investigator
 
+[中文 README](./README.zh-CN.md)
+
 A public-information OSINT workflow and ChatGPT Skill for researching public officials, public-sector projects, procurement, companies, land, state-owned platforms, disciplinary records, and evidence-backed integrity-risk signals.
 
 The project is designed around one rule: **investigate relationships and transactions without turning suspicion into accusation.**
@@ -40,6 +42,7 @@ That is a valid research result.
 ```text
 .
 ├── README.md
+├── README.zh-CN.md
 ├── skill/
 │   ├── SKILL.md
 │   ├── agents/
@@ -122,6 +125,43 @@ Signals are not guilt scores. Examples include:
 - repeated preferential contact followed by transactions.
 
 Every signal should include the observed facts, why it matters, temporal fit, confidence, plausible normal explanations, and the next records that would confirm or weaken it.
+
+## A call for better public disclosure and verification
+
+The more this project examines public records, the clearer one limitation becomes: public oversight is often constrained not by a lack of willingness to investigate, but by the fact that information that could lawfully be disclosed is still too fragmented, incomplete, difficult to verify, or difficult for machines to process.
+
+We therefore encourage public institutions, government agencies, state-owned enterprises and other public bodies to expand the scope and quality of lawful disclosure while continuing to protect state secrets, legitimate commercial secrets and necessary personal privacy.
+
+In particular, more complete disclosure would be valuable for:
+
+- government procurement, tendering and major public projects;
+- project approvals, budgets, contracts, amendments, final accounts and performance results;
+- land transfers, planning changes, subsidies, industrial incentives and the public portions of investment agreements;
+- SOE and local financing-platform investments, guarantees, related-party transactions, asset transfers and major fund movements;
+- officials' publicly disclosable career histories, responsibilities, participation in major public decisions and conflict-of-interest declarations;
+- follow-up and final remediation after audit, inspection or disciplinary review findings;
+- historical versions, revision logs and stable permanent links for previously disclosed records.
+
+Most importantly, **publication should not be treated as the end of oversight**.
+
+We also encourage discipline inspection bodies, audit institutions, legislatures, fiscal-supervision bodies and other competent oversight authorities to examine not only whether disclosure occurred, but whether the disclosed information is **true, complete, accurate and timely**.
+
+A strong public-disclosure system should be able to answer four questions:
+
+1. **Completeness** — Was everything legally required to be disclosed actually disclosed, or were material records selectively omitted?
+2. **Authenticity** — Does the published information match original accounts, contracts, registers and real-world facts?
+3. **Consistency** — Do records published by different agencies, in different years or in different reports contradict one another?
+4. **Traceability** — When data, projects or funding purposes change, can the public still inspect the complete historical record?
+
+We hope public information systems can increasingly move beyond “a PDF was once uploaded to a webpage” toward **structured, machine-readable, searchable, bulk-downloadable and version-preserving public data infrastructure**, ideally with reliable timestamps, digital signatures or other means of proving publication history.
+
+In an Agent era, citizens may no longer need to personally read tens of thousands of budgets, procurement notices, corporate filings and audit reports. Their software may be able to do much of that work for them. As the cognitive cost of oversight falls, the more important institutional questions become:
+
+> **Is enough information available to supervise public power? Who verifies the information that is disclosed? And when inconsistencies are discovered, is there a formal and traceable mechanism to challenge and correct them?**
+
+Better transparency protects conscientious public officials as well as the public. The clearer the facts are, the less room there is for rumor, speculation and guilt by association.
+
+**Transparency is not about presuming guilt. It is about making the truth easier to establish.**
 
 ## Intended use
 
