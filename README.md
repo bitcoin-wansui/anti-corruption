@@ -163,6 +163,16 @@ Better transparency protects conscientious public officials as well as the publi
 
 **Transparency is not about presuming guilt. It is about making the truth easier to establish.**
 
+## Acknowledgements
+
+Special thanks to the [LINUX DO](https://linux.do/) community.
+
+It is full of people who generously share tools, experience, odd ideas and genuinely interesting discussions — and, just as importantly, **the people there are a lot of fun.** 😄
+
+This project grew from a loose question about whether Agents could reduce the cost of public oversight into a broader exploration of open data, relationship graphs and public-integrity research. Communities that are curious, open and willing to throw ideas around make that kind of exploration much easier.
+
+Thank you to LINUX DO, and to everyone who contributes thoughtful criticism, useful links, experiments and wonderfully weird ideas.
+
 ## Intended use
 
 This project is for public-interest research, journalism-style OSINT, academic exploration, public-finance analysis, compliance research and evidence organization using lawful public information.
